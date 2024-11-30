@@ -1,6 +1,5 @@
 vim.filetype.add({
-    extension = {
-      blade = "blade",
-    },
-  })
-  
+  extension = {
+    blade = "blade",
+  },
+})
