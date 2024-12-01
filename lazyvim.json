@@ -3,7 +3,6 @@
     "lazyvim.plugins.extras.ai.tabnine",
     "lazyvim.plugins.extras.coding.yanky",
     "lazyvim.plugins.extras.editor.dial",
-    "lazyvim.plugins.extras.editor.fzf",
     "lazyvim.plugins.extras.editor.illuminate",
     "lazyvim.plugins.extras.editor.inc-rename",
     "lazyvim.plugins.extras.editor.telescope",
@@ -30,4 +29,3 @@
   },
   "version": 7
 }
-
